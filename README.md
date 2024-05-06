@@ -1,0 +1,1 @@
+This project is a consolidation of my HTML/CSS knowledge from the Foundations section of The Odin Project's web development course.
